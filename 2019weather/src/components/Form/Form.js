@@ -20,6 +20,8 @@ class Form extends React.Component {
         return(
             <form>
                 <input type="text" name="city" placeholder= "City"/>
+                <input type="text" name="state" placeholder= "State"/>
+
                 <button>Weather</button>
 
             </form>
